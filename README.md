@@ -53,9 +53,9 @@ Essa organização evita repetição de código e deixa cada etapa do processo (
 
 ## Prints de funcionamento
 
-<img src="img/print_terminal_150" alt="Demonstração Fiscore" width="100%"/>
-<img src="img/print_terminal_250" alt="Demonstração Fiscore" width="100%"/>
-<img src="img/print_terminal_450" alt="Demonstração Fiscore" width="100%"/>
+<img src="img/print_terminal_150.png" alt="Demonstração Fiscore" width="100%"/>
+<img src="img/print_terminal_250.png" alt="Demonstração Fiscore" width="100%"/>
+<img src="img/print_terminal_450.png" alt="Demonstração Fiscore" width="100%"/>
 
 ## Autor
 
